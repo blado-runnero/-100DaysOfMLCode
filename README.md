@@ -2,6 +2,8 @@
 My attempt for #100DaysOfMLCode.
 
 -----------------------------------
+-----------------------------------
+
 
 # Day 1:-
 
@@ -12,6 +14,7 @@ Always make preprocess your data.
 I trained the model and deployed all while my training data was LR and 90 rotated. So I trained again and it correctly classified images this time. 
 Link for the same is: https://blado-runnero.github.io/char.html
 
+-----------------------------------
 -----------------------------------
 
 # Day 2:-

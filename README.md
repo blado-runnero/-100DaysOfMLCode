@@ -38,3 +38,35 @@ I also learnt how to plot graphs, I can now plot graphs much easily. But for mor
 
 I also learned the concept of imputing today, for the first time. And best practice is to impute the whole column with an marker in the name, so that the algorithm can make educated guess by looking both the columns. 
 
+-----------------------------------
+
+# Day 3:-
+
+Today was the day for 2 of the most important models, xgboost and random forests. These are the two of the most used models in any kaggle competitions; dominance is however, of xgboost. 
+
+I didn't wrote a lot of code today, because most of the time was spent understanding these two models. After dedicating a solid 3 hours for this two models also I am yet to gain a solid understanding of these two (I will revisit this topic after few days, this time not by theory, but by a practical implementation, i.e. reading kaggle kernels ), so not much to learn today. 
+
+# Learning from today:-
+
+Ensemble models are great, they have dont useually overfit and if they do, you can easily tune model to overcome that.
+
+# Project Ideas
+
+While I was having a hard time understanding xgboost, so I decided to search for some projct ideas that I can make next. I encountered this two ideas.
+
+1. Estimating the price of a mobile from a feature list. 
+
+2. Face recognition mobile app, by using facenet architecture. (Sounds interesting)
+
+-----------------------------------
+
+# Day 4:-
+
+Today was a light day in terms of ML coding. I worked on my website, yes, from few days from now, I will not be Anshuman Patel anymore, I will become anshumanpatel.in (It already feels so proud to say that my website will be hardcoded and not some wordpress or theme stuff)
+
+Read few kernels from kaggle. Since I am new to kaggle, I am first analyzing the style of different people and analyzing how they approach the problem, and will develop my style seeing them. (Sounds random forest, right?)
+
+# Learning from today:-
+
+EDA is king. (That in itself is a thousand learnings combined.)
+

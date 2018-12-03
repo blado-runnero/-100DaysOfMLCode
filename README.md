@@ -70,3 +70,22 @@ Read few kernels from kaggle. Since I am new to kaggle, I am first analyzing the
 
 EDA is king. (That in itself is a thousand learnings combined.)
 
+-----------------------------------
+
+# Day 5:-
+
+SVM's day. I implemented a SVM classifier today. The idea is that they try to separate the labels in different hyperplanes. ALtought I am familiar with SVM, but for the first time  I learnt about gamma, margin, regularization, kernels. 
+
+Resources :- 
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-coding-edd8f1cf8f2d
+
+# Learning from today:-
+
+If I plot what I learnt today on a graph, the point that this point till be plotetd will totally be an outlier. 
+
+I was charged some $10 for static IP I used in a project weeks ago by google cloud, since the project was completed, I deleted the whole project. So the lerning will be to always close all the projects/instances/everything used in online cloud services. 
+
+-----------------------------------
+
+# Day 6:-

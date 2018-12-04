@@ -89,3 +89,13 @@ I was charged some $10 for static IP I used in a project weeks ago by google clo
 -----------------------------------
 
 # Day 6:-
+
+Today I learnt about transfer learning. I made a custom model based on VGG16 architecture. 
+
+The idea behind transfer learning is that you use a pretrained model, which in this case is VGG16, a winner of imagenet challenge 2014, and remove last few layers according to your needs, which in my case was just to add a dense layer with output of 2 neurons predicting cat or dogs. The pretrained network, since it has proven its ability to identify features from an image, hence can be used to classify our images, or any data in case without making a new architecture from scratch.
+
+# Learning from today:-
+
+Transfer learning not only saves training time, but also reduces development efforts, resources. 
+
+As always, it took me 3 hours to figure out how to configure my data for feeding into the models input layer. [ But here is the best part, I can use todays experience of image conversion later also. Ohhhh wait, its it Transfer Learning in real life ? :-) ]

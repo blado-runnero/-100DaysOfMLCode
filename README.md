@@ -111,3 +111,20 @@ I also tried my hands on Embedding track, but I found it some difficulty in that
 Got a project idea, an chrome plugin for controlling youtube via hand gestures. Mainly next/play/pause etc. So took few pics for it of myself. I know it can be done, but exactly how to approach it, is unknown to me yet. I also thought to first make it locally, and not on the browser, since that will be slow. Tommorow I will implement tiny yolo on my machine and try to do that. 
 
 -----------------------------------
+
+# Day 8:-
+
+Today I failed at what I initially tried to do, so I had a lot to learn today.
+
+Today I extended the project idea from yesterday and got on a result that the problem is an classification one, and not an object detection. What I mean by above line is that, classification can solve it more easily than implementing YOLO.
+
+I never went ahead from classifying digits and letters, and when I did that, I straightaway implemented VGG16, a heavy network(in comparison to what I was trying to do, running on a browser through tensorflow JS). So I assumed that I can achieve the same by using mobilenet. And I took my pics and tried to classify the same through mobilenet. It was bad, like really bad. 
+
+The max accuracy I obtained by mobilenet is 32.XX% (in 400 epochs). So for reference I ran the same images as input in VGG16, and in 15 epochs I was able to get 90+% accuracy. 
+
+# Learning from today:-
+
+Now I get why there are not so many AI apps that run live(on browser). Because its not easy to process millions of calculation at a given time, and that too on browsers. Its easy to do it into a backend where we can theoritically have unlimited processing power. But with advancement of technology(especially hardware), it will happen in next 3,4 years, we will have more on browser AI apps than now.
+
+-----------------------------------
+

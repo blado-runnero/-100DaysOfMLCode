@@ -99,3 +99,15 @@ The idea behind transfer learning is that you use a pretrained model, which in t
 Transfer learning not only saves training time, but also reduces development efforts, resources. 
 
 As always, it took me 3 hours to figure out how to configure my data for feeding into the models input layer. [ But here is the best part, I can use todays experience of image conversion later also. Ohhhh wait, its it Transfer Learning in real life ? :-) ]
+
+-----------------------------------
+
+# Day 7:-
+
+Today I completed kaggle's deep learning track. https://www.kaggle.com/learn/deep-learning
+
+I also tried my hands on Embedding track, but I found it some difficulty in that, so dropped that for the day. Maybe 2,3 days.
+
+Got a project idea, an chrome plugin for controlling youtube via hand gestures. Mainly next/play/pause etc. So took few pics for it of myself. I know it can be done, but exactly how to approach it, is unknown to me yet. I also thought to first make it locally, and not on the browser, since that will be slow. Tommorow I will implement tiny yolo on my machine and try to do that. 
+
+-----------------------------------

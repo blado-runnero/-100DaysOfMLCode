@@ -128,3 +128,14 @@ Now I get why there are not so many AI apps that run live(on browser). Because i
 
 -----------------------------------
 
+# Day 9:-
+
+Today was the day of theorotical learning. 
+
+I am not much familiar with NLP, so I thought to learn basic concepts behind NLP. My field of interest is Computer Vision, but I think I should also know basics of NLP, the most used ML technique ever. If you, by any chance, find this resource by a google search, its NLP in action. Basically anything that has words to do with it, its probably NLP. Like, "Alexa whats the weather now?", the first step is ofcourse converting the speech to text, but after that, understanding whats the meaning of this, both are an example of NLP.
+
+I got an awesome resource I can refer to(thanks to the person who refered me this resource). 
+
+https://www.stitcher.com/podcast/ocdevel/machine-learning-guide
+
+This is a resource I would refer to, when they would say, tell me a resource which is exciting and no distractions. Its an audio resource(podcast), so if you want to like jog and still be connected to ML, this is the one.

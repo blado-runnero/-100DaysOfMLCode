@@ -148,6 +148,12 @@ I implemented an LSTM based RCNN model for sentiment analysis built on top of cl
 
 I also tried to implement a text generation model, just like https://github.com/mtobeiyf/keras-flask-deploy-webapp. But didn't got any ideas so as to make it some kind of unique. I also explored the possibilities of implementing the same in different languages, like hindi. Read few articles for that also.
 
+# Project Ideas
+
+I got an rather interesting idea of an AI automated youtube live stream. Searched some resources for that and came to a conclusion that this is a very big project and would take lots of work. Kind of, side project once I get a job. It will take a lot of combination of models and lot of which will be NLP, which I currently know very little about.
+
+Nice idea, but not achievable at this point. 
+
 -----------------------------------
 
 # Day 12:-

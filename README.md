@@ -139,3 +139,33 @@ I got an awesome resource I can refer to(thanks to the person who refered me thi
 https://www.stitcher.com/podcast/ocdevel/machine-learning-guide
 
 This is a resource I would refer to, when they would say, tell me a resource which is exciting and no distractions. Its an audio resource(podcast), so if you want to like jog and still be connected to ML, this is the one.
+
+-----------------------------------
+
+# Day 10 & 11:-
+
+I implemented an LSTM based RCNN model for sentiment analysis built on top of classical imdb movie review database.
+
+I also tried to implement a text generation model, just like https://github.com/mtobeiyf/keras-flask-deploy-webapp. But didn't got any ideas so as to make it some kind of unique. I also explored the possibilities of implementing the same in different languages, like hindi. Read few articles for that also.
+
+-----------------------------------
+
+# Day 12:-
+
+Today I worked on model deployment issue.
+
+I always wanted to know how to deploy a model, but I somehow skipped it just by seeing terms like docker, flask, etc. But after committing that I will write an article on how to deploy, yesterday, somehow today I tried it, and after several attempts and 3 hours of efforts, I failed at it.  
+
+Now I am continuously serching for a good article and following every steps, and when I will achieve that, I will write a simple step by step guide to deploy.
+
+-----------------------------------
+
+# Day 13:-
+
+Having failed at building a pipeline to deploy the DL model using docker. Today I wrote an article on how to deploy small ml/dl models serverlessly using TFJS. Working on where to publish it.
+
+Today I also gave an test for NLP engineer at vahan. It was quite tough, and also out of syllabus according to my current skillset(I am more like a computer vision engineer than nlp engineer). Also it made a point to revise some basic concepts like bias, variance, precision, recall. That test was only of 15 questions, but tested the indeapth knowledge for any NLP engineer. I might not crack this test, but it gave me a good learning topics for the next day. 
+
+
+-----------------------------------
+

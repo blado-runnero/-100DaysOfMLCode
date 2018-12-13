@@ -175,3 +175,10 @@ Today I also gave an test for NLP engineer at vahan. It was quite tough, and als
 
 -----------------------------------
 
+# Day 14:-
+
+Today I intended to have a hands on experience with semantic segmentation architecture. Upon reading several articles it became clear that UNet is a clear winner in this category. So after going through several articles about that, I decided to have a look at a video explaination, the first video sugegstion from youtube was from a very famous instituation, fastai. 
+
+Now, I knew that fastai's course is a good resource, the only fact that they use their own library stopped me from taking their course. But today 2 things changed my perspective. First, it says "Practical Deep Learning For Coders" and when read about the review, it seemed that its a right claim, and I actuyally hate math(until I know where and why exactly its used), so this seemed the perfect course for me. Second reason that forced me to literally take this course was, the founder, Jeremy Howard is a kaggle winner for 2 years(I tried to find the source but didnt find) and definitely I can have something from him. There are 14 lectures, I completed 1st one today, 13 more are left, I expect to complete all in next 10 days. 
+
+Regarding UNet, if you want to learn about how to optimize it, have a look at this link, its a real time competiotion winner's experience and definitely more to learn from this very personal experience. https://towardsdatascience.com/image-segmentation-kaggle-experience-9a41cb8924f0

@@ -192,3 +192,8 @@ I've completed 5 lectures of fastai. The course has much more to offer than I th
 In these days, I also gave the first round of 3 internships, all assignments. And I failed to even manage to complete two of these. One dealt with time series predictions, I have never encountered this problem before, so most of the allotted time was gone in grabbing the knowledge about the same, after failing in this I now know how hard is for trading/algorithmic trading predictions. Its much more complex, and nobody can predict it exactly, while going through some code examples, I saw them extracting and using google news feed and oberving its effects on prices and I never expected that to be of any use(I am not into trading in any means), but somehow it worked and somehow this is the new feature engineering, such creative job this is, I just hope I would somehow learn all these in few years.
 
 I also got to know a new course on coursera about Serverless Machine Learning with Tensorflow on Google Cloud Platform, this is a new addition to my learning section, again thanks to Daniel Bourke(If you are reading it in medium seriess, this series is also inspired from his series, https://medium.com/series/bf23b507fc77 , dont sue me for copying you idea man[ofcourse, I am kidding {but I also fear, cause I can't afford my legal fees :-D}]).
+
+-----------------------------------
+I took a few days break after the 20th day, cause I was travelling, will resume from 3rd Jan as 21st days. 
+-----------------------------------
+

@@ -194,6 +194,16 @@ In these days, I also gave the first round of 3 internships, all assignments. An
 I also got to know a new course on coursera about Serverless Machine Learning with Tensorflow on Google Cloud Platform, this is a new addition to my learning section, again thanks to Daniel Bourke(If you are reading it in medium seriess, this series is also inspired from his series, https://medium.com/series/bf23b507fc77 , dont sue me for copying you idea man[ofcourse, I am kidding {but I also fear, cause I can't afford my legal fees :-D}]).
 
 -----------------------------------
+
 I took a few days break after the 20th day, cause I was travelling, will resume from 3rd Jan as 21st days. 
+
 -----------------------------------
+
+# Day 21 :-
+
+I missed some of the details in lecture 5, and today I had a look at that again, and while trying to catchup, ended up watching the whole lecture again, it took me 4 seatings total to complete 140 min video with some rewinds. I didn't enjoyed this lecture beacuse it was all basics of how a neural network is made, more like a bottom up approach to try let us understand how these things work. However there is one topic I enjoyed, and would love to learn more in detail, how optimizers work. Literally he showed in excel about how a adam, momentum works; to reach to the top its necessary to understand some basics at very detail, this leacture was all about the same. 
+
+I also completed https://www.kaggle.com/learn/embeddings today. Embeddings were used in the lecture 5, and also I skipped this for someday later, and this day finally came. 
+
+Today I learnt the inner working of how some of the optimizers work, and how can we choose which one to select while working with data. I am not yet fully eduacated about this topic, but I have an idea about how to approach. 
 

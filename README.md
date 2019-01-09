@@ -207,3 +207,50 @@ I also completed https://www.kaggle.com/learn/embeddings today. Embeddings were 
 
 Today I learnt the inner working of how some of the optimizers work, and how can we choose which one to select while working with data. I am not yet fully eduacated about this topic, but I have an idea about how to approach. 
 
+-----------------------------------
+
+# Day 22-23 :-
+
+I failed to understand embeddings and ended up spending day 22 towards the same course https://www.kaggle.com/learn/embeddings
+
+On day 23 I watched and read the wiki page for lecture 6 of fastai course.
+
+On this lecture too, Jeremy went from bottom to up, and I got to learn about some of the basics of RNN, and learning from bottom up was a new thing for RNN. Now I know how RNN is just a like a simple NN.
+
+-----------------------------------
+
+# Day 24 :-
+
+This was one of the day I will remember in my journey of 100 days. 
+
+I taught a friend some basics about neural network. I am happy that after learning for so many days, I am finally able to deliver this knowledge to someone not so familiar with this. 
+
+I taught him basics, like what is training dataset, testing dataset, why it is required, where to get datasets, basics if computer vision, blah blah
+
+My favourite part was to explain him that how even an image, or video is just a number. He was thrilled to listen to this and initially did not believe this so we both googled, saw video and finally come to same conclusion. 
+
+-----------------------------------
+
+# Day 25-26 :-
+
+Today I completed the part 1 of the fastai's course.
+
+Jeremy talked about computer vision in this lecture. I can finally say that I love computer vision becasue when I knew that computer vision topic is being discussed I can easily feel that I was more interested. 
+
+This lecture was also in bottom up style, the basic ingredient of engineering. He explained why comvolutions work, and comparison with shallow DL techniques, and about why small datasets are more interesting in real life(under 25k images), beacuse most of us will eventually have to work with that kind of datasets.
+
+Day 26 was the day of revision of all the fastai's first course.
+
+-----------------------------------
+
+# Day 27 :-
+
+I spent the whole day filling forms for internship/fulltime roles. Job search is a relatively harder step.
+
+I also saw that in some job descriptions, they are asking for proficiancy in C++. I digged deeper for this and the reason is beacuse Caffe is used in production and in production its more important to be faster, and C++ is really fast, wasy faster than python.
+
+So I started with basic image manipulation techniques, I found a blog and read first 2 posts. 
+
+Quick fact :- Negative image is just 255-pixel_value.
+
+I also have an intern interview tomorrow, at another stealth mode startup, AI Monk. Best of luck to me.

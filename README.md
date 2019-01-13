@@ -254,3 +254,17 @@ So I started with basic image manipulation techniques, I found a blog and read f
 Quick fact :- Negative image is just 255-pixel_value.
 
 I also have an intern interview tomorrow, at another stealth mode startup, AI Monk. Best of luck to me.
+
+-----------------------------------
+
+# Day 28 :-
+
+I started with 8th lecture from fastai's course. In around 2 hour of session I managed to complete around 1 hour of the course content. The topic was a computer vision one and more specifically, single object detection; since I was not familiar with this, I had to read several posts to understand this, to have a more in deapth knowledge. 
+
+Around midway the video I realised I was having fever and headaches and needed to rest, so took the day off from laptop. The fever lasted for 3 days and I was also having some headaches whenever I used to see a screen so I was kind of off from the learning AI, and instead read a book, caught hold of some news which I missed in past few days. 
+
+Another bad news was that I was not contacted by the recruiter, they said they will postpone to next day and since then there's never been any kind of communication with the recruiter. Anyways, I am updating this on 13th Jan, and I am back on my learning track and more motivated than before. 
+
+-----------------------------------
+
+# Day 29 :-

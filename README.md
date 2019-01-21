@@ -267,4 +267,16 @@ Another bad news was that I was not contacted by the recruiter, they said they w
 
 -----------------------------------
 
-# Day 29 :-
+# Day 29-34 :-
+
+Finally completed with both the parts of the FastAI's course.
+
+Now I am going to implement several famous papers to have an indeapth knowledge of the same. 
+
+1. Super resolution
+2. Style transfer
+3. GAN
+4. Unet
+5. SSD
+
+-----------------------------------

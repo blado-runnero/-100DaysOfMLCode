@@ -279,4 +279,6 @@ Now I am going to implement several famous papers to have an indeapth knowledge 
 4. Unet
 5. SSD
 
+I am not sure about the time frame that is required to complete all this, its kind of hard to estimate, since I have no history of reading papers in my free time. But I will try to complete all this as soon as possible, I need to search a job, to implement all this learnings.
+
 -----------------------------------
